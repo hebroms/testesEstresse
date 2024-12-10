@@ -32,7 +32,7 @@ Este repositório contém os planos de teste e relatórios para avaliar o desemp
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/reqres-performance-tests.git
+   git clone https://github.com/hebroms/testesEstresse.git
    cd reqres-performance-tests
    ```
 2. Abra os planos de teste no JMeter:
